@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yusuf Enes.</h1>
+<h3 align="center">Physicsit / Data Analyst & Scientist</h3>
+
 
 <!--
 **yusufeneskorkmaz/yusufeneskorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
