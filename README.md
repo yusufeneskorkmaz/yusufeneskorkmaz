@@ -1,4 +1,5 @@
-[![Screenshot-2024-07-13-235758.png](https://i.postimg.cc/RhQDMNVK/Screenshot-2024-07-13-235758.png)](https://postimg.cc/ctCmh13L)
+
+![hey!](https://postimg.cc/ctCmh13L)
 
 <h1 align="center">Hi 👋, I'm Yusuf Enes.</h1>
 <h3 align="center">Physicsit / Data Analyst & Scientist</h3>
