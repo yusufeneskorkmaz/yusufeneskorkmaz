@@ -1,5 +1,5 @@
 
-![hey!](https://www.wikiart.org/en/claude-monet/regatta-at-argenteuil)
+![hey!](https://uploads4.wikiart.org/images/claude-monet/regatta-at-argenteuil.jpg)
 
 <h1 align="center">Hi 👋, I'm Yusuf Enes.</h1>
 <h3 align="center">Physicsit / Data Analyst & Scientist</h3>
