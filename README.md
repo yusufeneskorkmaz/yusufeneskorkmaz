@@ -2,7 +2,7 @@
 ![hey!](https://uploads4.wikiart.org/images/claude-monet/regatta-at-argenteuil.jpg)
 
 <h1 align="center">Hi 👋, I'm Yusuf Enes.</h1>
-<h3 align="center">Physicsit / Data Analyst & Scientist</h3>
+<h3 align="center">Physicsit / Data Scientist & Analyst </h3>
 
 
 <!--
